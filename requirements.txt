@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+numpy
+seaborn
+joblib  ###model save  output =.pkl file
+mlflow  ## model,parameter,metrics tracking
